@@ -2,4 +2,4 @@
 This is the code section of the following research article: A time-sequenced approach to machine learning prognostic modelling with implementation on running-related injury prediction  
 Different parts of the project are separated into different jupyter notebook files (.ipynb). To replicate the procedure, use the provided dataset from the article's supplementary material, change the file path for 'data' within the jupyter notebook file into where the dataset is stored, and run the script.  
 Folder 'class 1 features' contains code for all traditional algorithms (decision tree, random forest, SVM, KNN, naive bayes, adaboost, gradient boosting, MLP, bayesian network, logistic regression) tested on the class 1 candidate features (class 1 dataset in the article's supplementary material). Folder 'all features' contains code for these algorithms tested on all candidate features (class 123 dataset).  
-Folder 'TSNN' and 'TSGNN' contain code for the novel algorithms for all procedures conducted within the article.
+Folders 'TSNN' and 'TSGNN' contain code for the novel algorithms for all procedures conducted within the article.
